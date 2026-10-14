@@ -1,9 +1,59 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="311agFhdMZ3oQ7PuOwgR">
-    <mxGraphModel dx="1129" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1086" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jUZsAEOqO_9zAzvMKsBG-10" edge="1" parent="1" source="jUZsAEOqO_9zAzvMKsBG-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="jUZsAEOqO_9zAzvMKsBG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jUZsAEOqO_9zAzvMKsBG-12" edge="1" parent="1" source="jUZsAEOqO_9zAzvMKsBG-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="jUZsAEOqO_9zAzvMKsBG-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="413.48" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jUZsAEOqO_9zAzvMKsBG-14" edge="1" parent="1" source="jUZsAEOqO_9zAzvMKsBG-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="jUZsAEOqO_9zAzvMKsBG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jUZsAEOqO_9zAzvMKsBG-18" edge="1" parent="1" source="jUZsAEOqO_9zAzvMKsBG-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="jUZsAEOqO_9zAzvMKsBG-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jUZsAEOqO_9zAzvMKsBG-20" edge="1" parent="1" source="jUZsAEOqO_9zAzvMKsBG-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="jUZsAEOqO_9zAzvMKsBG-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jUZsAEOqO_9zAzvMKsBG-22" edge="1" parent="1" source="jUZsAEOqO_9zAzvMKsBG-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="jUZsAEOqO_9zAzvMKsBG-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jUZsAEOqO_9zAzvMKsBG-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPosition=center;align=center;" value="Organizer" vertex="1">
+          <mxGeometry height="60" width="30" x="70" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="jUZsAEOqO_9zAzvMKsBG-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="590" width="300" x="190" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jUZsAEOqO_9zAzvMKsBG-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Record invitees availabilities" vertex="1">
+          <mxGeometry height="40" width="140" x="220" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="jUZsAEOqO_9zAzvMKsBG-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Specify room requirements" vertex="1">
+          <mxGeometry height="40" width="140" x="220" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="jUZsAEOqO_9zAzvMKsBG-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Choose room-time combination" vertex="1">
+          <mxGeometry height="40" width="140" x="220" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="jUZsAEOqO_9zAzvMKsBG-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Update invite responses" vertex="1">
+          <mxGeometry height="40" width="140" x="220" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="jUZsAEOqO_9zAzvMKsBG-16" edge="1" parent="1" source="jUZsAEOqO_9zAzvMKsBG-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="jUZsAEOqO_9zAzvMKsBG-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jUZsAEOqO_9zAzvMKsBG-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Create final event plan" vertex="1">
+          <mxGeometry height="40" width="140" x="220" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="jUZsAEOqO_9zAzvMKsBG-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="choose proposed alternative after conflict" vertex="1">
+          <mxGeometry height="60" width="240" x="220" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="jUZsAEOqO_9zAzvMKsBG-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="cancel event" vertex="1">
+          <mxGeometry height="40" width="140" x="220" y="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
